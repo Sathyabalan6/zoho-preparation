@@ -10,7 +10,6 @@ class Solution {
                 count = prices[i] - a ; 
             }
         }
-
         return count;
     }
 
